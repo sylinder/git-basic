@@ -33,7 +33,7 @@ Other useful commands to see what is going on the git repository:
 ## New Line
 Git is a distributed version control system.
 
-## From branch-1
-1、git add filename:  将工作区的文件添加到暂存区stage中。
-2、git commit -m "log_information":  将暂存区stage中的所有文件提交到当前的分支中。
-3、git push origin master: 将本地master分支的修改推送到远程GitHub仓库中。
+## Answer
+- 1、git add filename:  将工作区的文件添加到暂存区stage中。
+- 2、git commit -m "log_information":  将暂存区stage中的所有文件提交到当前的分支中。
+- 3、git push origin master: 将本地master分支的修改推送到远程GitHub仓库中。
